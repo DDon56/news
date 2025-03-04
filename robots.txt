@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ddon56.github.io/news/teknik-spin-andalan-paling-gacor-dengan-fitur-auto-spin.html/sitemap.xml
